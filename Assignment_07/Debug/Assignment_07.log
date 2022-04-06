@@ -1,0 +1,7 @@
+﻿  infixToPostfix.cpp
+F:\User Alavi\Documents\School\Santa Ana College\2022 Spring\CMPR 131\Assignments\Assignment 07\Assignment_07\infixToPostfix.cpp(48,23): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  simpleCalculator.cpp
+F:\User Alavi\Documents\School\Santa Ana College\2022 Spring\CMPR 131\Assignments\Assignment 07\Assignment_07\simpleCalculator.cpp(161,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Assignment_07.vcxproj -> F:\User Alavi\Documents\School\Santa Ana College\2022 Spring\CMPR 131\Assignments\Assignment 07\Assignment_07\Debug\Assignment_07.exe
